@@ -16,6 +16,8 @@ public class EmpresaGB {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        SystemOutPrinlt("HOLA MUNDO");
+        
     }
     
 }
